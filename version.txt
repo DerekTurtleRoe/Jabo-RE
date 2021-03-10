@@ -1,0 +1,28 @@
+FILEVERSION    1,7,0,57
+PRODUCTVERSION 1,7,0,0
+FILEFLAGSMASK  0x3F
+FILEFLAGS      0x0
+FILEOS         VOS_NT_WINDOWS32
+FILETYPE       VFT_DLL
+FILESUBTYPE    0x0
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904b0"
+    {
+      VALUE "Comments",          "Project64"
+      VALUE "CompanyName",       "Project64"
+      VALUE "FileDescription",   "Jabo's Direct3D8 Plugin for Project64"
+      VALUE "FileVersion",       "1.7.0.57-ver5"
+      VALUE "InternalName",      "GFX"
+      VALUE "LegalCopyright",    "Copyright © 2001-2008"
+      VALUE "OriginalFilename",  "Jabo_Direct3D8.dll"
+      VALUE "ProductName",       "Project64"
+      VALUE "ProductVersion",    "1.7"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x409, 1200
+  }
+}
