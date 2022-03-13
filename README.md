@@ -17,5 +17,7 @@ As for the graphics plugin, that is much more interesting. I know that after UPX
 ## Disclaimer
 This is purely for educational and informational purposes, and nothing in the repository should be considered fact without proper research and vetting. Basically, have common sense and do your own research, and I very well may be wrong about anything and everything in this repo. :D
 
+Also all of this is owned by Jabo, and if he ever asks for me to take this repo down I will do so. I don't mean any disrespect to Jabo, it's just fascinating to me how his plugins have been performant and also generally accurate while also providing a fairly robust feature set. This repo is a place for info about these plugins and also to practice my RE skills in my free time.
+
 ## License
 I am releasing everything in this repo that is mine to the public domain, take the information as you will and do what you want with it.
